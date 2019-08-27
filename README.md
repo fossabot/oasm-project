@@ -10,4 +10,4 @@ The project was made as a sophmore year web and database project at JIIT, Noida,
 The frontend is designed with Bootstrap. Overall the project is going to follow around LMAP Stack.
 
 ### What to expect?
-Apart from an A+ grade I don't know what else.
+Apart from an A+ grade I don't know what else. The roadmap and feature expectations are doucmented at [https://shermix.keybase.pub/OASM_Project_shermisaurus.pdf](https://shermix.keybase.pub/OASM_Project_shermisaurus.pdf)
